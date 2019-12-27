@@ -1,2 +1,2 @@
 # cheetsheet-and.config
-various cheet shhet and configs
+various cheet sheet and configs
